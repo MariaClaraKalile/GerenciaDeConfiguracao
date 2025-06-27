@@ -1,1 +1,1 @@
-[Acesso a branch: 02-contexto-historico](https://github.com/MariaClaraKalile/GerenciaDeConfiguracao/tree/02-contexto-historico)
+Próximo tópico: [03-envolvidos-motivacoes](https://github.com/MariaClaraKalile/GerenciaDeConfiguracao/tree/03-envolvidos-motivacoes)
