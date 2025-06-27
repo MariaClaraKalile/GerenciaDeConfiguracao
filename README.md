@@ -1,1 +1,1 @@
-[Acesso a branch: 06-papel-urss](https://github.com/MariaClaraKalile/GerenciaDeConfiguracao/tree/06-papel-urss)
+[Próximo tópico](https://github.com/MariaClaraKalile/GerenciaDeConfiguracao/tree/07-hiroshima-nagasaki)
